@@ -17,9 +17,10 @@ Put another way, the Autoexec file is a list of console commands written in text
 
 To create an autoexec:
 1. First, go to your CS2 directory, usually located in the folder: "Steam" STEAMID" "Steam".
-2. Generate a new text file and rename it "autoexec.cfg" here.
-3. Ensure the file extension is ".cfg" and not ".txt".
-4. Open this file with a text editor.
+2. Navigate to ...steamapps\common\Counter-Strike Global Offensive\game\core\cfg
+3. Generate a new text file and rename it "autoexec.cfg" here.
+4. Ensure the file extension is ".cfg" and not ".txt".
+5. Open this file with a text editor.
 
 
 ## How to get started?

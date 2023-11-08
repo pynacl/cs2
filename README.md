@@ -23,4 +23,4 @@ To create an autoexec:
 
 
 ## How to get started?
-Feel free to use this ![autoexec.cfg]() as a good starting point!
+Feel free to use this ![autoexec.cfg](https://github.com/pynacl/cs2/blob/main/autoexec.cfg) as a good starting point!

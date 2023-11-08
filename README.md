@@ -4,7 +4,7 @@
 Most launch options from CS:GO are deprecated and/or no longer useful. Historically it was a useful way to automatically execute your autoexec file, but with CS2 the game will autodetect any autoexec files if they are in the correct file path location.
 Enter launch options at `Steam > Library > Counter-Strike 2 (right-click) > Properties > Set Launch Options...`
 ```
--console -novid -fullscreen -freq 144 -high
+-console -novid -fullscreen -freq 144 -tickrate 128 -high
 ```
 
 ## What is an Autoexec file in CS2?
